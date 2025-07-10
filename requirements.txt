@@ -1,0 +1,14 @@
+onnx
+onnxruntime
+onnxruntime-gpu
+opencv-python
+numpy
+scikit-image
+faiss-cpu
+librosa
+speechbrain
+torch
+torchaudio
+webrtcvad
+pydub
+pyaudio
