@@ -8,7 +8,7 @@
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest updates.</h5>
 -->
 
-<video controls autoplay loop src="https://github.com/yakhyo/face-reidentification/assets/28424328/441880b0-1e43-4c28-9f63-b32bc9b6e6b4" muted="false" width="100%"></video>
+<video controls autoplay loop src="https://github.com/Yizheng-Sun/face-reidentification/blob/main/output_video.mp4" muted="false" width="100%"></video>
 
 This repository implements **multimodal person re-identification** using SCRFD for face detection, ArcFace for face recognition, and advanced voice identification. It supports inference from webcam or video sources with optional voice-based identity verification.
 
