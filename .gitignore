@@ -1,7 +1,7 @@
 weights/*.onnx
 app.log
-output_video.mp4
-database/face_database
+# output_video.mp4
+# database/face_database
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
